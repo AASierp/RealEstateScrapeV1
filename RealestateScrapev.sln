@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RealEstateScrape", "RealEstateScrape.csproj", "{02F67C25-EF13-4BBE-9B9A-AA978970537F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstateScrape.DataAccess", "..\RealEstateScrape.DataAccess\RealEstateScrape.DataAccess.csproj", "{1846FCD5-9ECC-4688-AA05-4A1D70AEFC86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02F67C25-EF13-4BBE-9B9A-AA978970537F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F67C25-EF13-4BBE-9B9A-AA978970537F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F67C25-EF13-4BBE-9B9A-AA978970537F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F67C25-EF13-4BBE-9B9A-AA978970537F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1846FCD5-9ECC-4688-AA05-4A1D70AEFC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1846FCD5-9ECC-4688-AA05-4A1D70AEFC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1846FCD5-9ECC-4688-AA05-4A1D70AEFC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1846FCD5-9ECC-4688-AA05-4A1D70AEFC86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B2389EC-8C72-4C2B-ABBF-4D67B1A14C81}
+	EndGlobalSection
+EndGlobal
